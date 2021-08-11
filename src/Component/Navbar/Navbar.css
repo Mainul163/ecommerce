@@ -1,0 +1,5 @@
+.navcontainer {
+  z-index: 8;
+  position: absolute;
+  width: 100%;
+}
